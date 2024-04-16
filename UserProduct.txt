@@ -1,0 +1,7 @@
+tutu:Meat1
+tutu:Tomato
+mimi:Meat1
+mimi:Onion
+pepe:Meat1
+pepe:Tomato
+pepe:Onion
